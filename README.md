@@ -7,8 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyakp&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyakp" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.971a3fb3d760b5f642c9eeea4787b2c8?rik=J4XUT8b4KurF%2bQ&riu=http%3a%2f%2fpin.anime.com%2fwp-content%2fuploads%2f2015%2f09%2fFruits-Basket-%e3%83%95%e3%83%ab%e3%83%bc%e3%83%84%e3%83%90%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88-animated-GIF-15.gif&ehk=PBJoCpHjadpoDAdmOqM6W%2f%2fdAXsD8SNGRYeC7iRPdP0%3d&risl=&pid=ImgRaw&r=0"
-
+<img src="https://th.bing.com/th/id/R.971a3fb3d760b5f642c9eeea4787b2c8?rik=J4XUT8b4KurF%2bQ&riu=http%3a%2f%2fpin.anime.com%2fwp-content%2fuploads%2f2015%2f09%2fFruits-Basket-%e3%83%95%e3%83%ab%e3%83%bc%e3%83%84%e3%83%90%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88-animated-GIF-15.gif&ehk=PBJoCpHjadpoDAdmOqM6W%2f%2fdAXsD8SNGRYeC7iRPdP0%3d&risl=&pid=ImgRaw&r" />
 
 - 🔭 I’m currently working on **DevOPs**
 
