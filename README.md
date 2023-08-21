@@ -1,7 +1,7 @@
 [![MasterHead](https://th.bing.com/th/id/R.c8e652aaeb508fd91677462fcad7ffb2?rik=930SvJctrgmHVA&riu=http%3a%2f%2fs3.amazonaws.com%2ffiverr.com%2fdeliveries%2f614353%2flarge%2fweb-banner-design-header_ws_1369117576.gif%3f1369117576&ehk=jGGj6bTRPXRkgAIHUDelx9JPvvmaSRV5s2B3BRQu2fk%3d&risl=&pid=ImgRaw&r=0)
 
 
-<h1 align="center">Hi 👋, I'm Sandhya Pas Kon</h1>
+<h1 align="center">Hi 👋, I'm Sandhya PK</h1>
 <h3 align="center">I m Devops and AWS learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyakp&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyakp" /> </p>
